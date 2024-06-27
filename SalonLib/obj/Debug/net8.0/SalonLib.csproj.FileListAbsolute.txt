@@ -1,0 +1,12 @@
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\bin\Debug\net8.0\SalonLib.deps.json
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\bin\Debug\net8.0\SalonLib.dll
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\bin\Debug\net8.0\SalonLib.pdb
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.AssemblyInfoInputs.cache
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.AssemblyInfo.cs
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.csproj.CoreCompileInputs.cache
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.sourcelink.json
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.dll
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\refint\SalonLib.dll
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\SalonLib.pdb
+C:\coding\repos\yuckylot\SummerPractice\SalonLib\obj\Debug\net8.0\ref\SalonLib.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalonLib", "SalonLib\SalonLib.csproj", "{DE69765A-E42F-493A-A074-A0E76DEA6B25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalonLib.Test", "SalonLib.Test\SalonLib.Test.csproj", "{F435AA81-086E-461E-B145-11AFD3233671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE69765A-E42F-493A-A074-A0E76DEA6B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE69765A-E42F-493A-A074-A0E76DEA6B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE69765A-E42F-493A-A074-A0E76DEA6B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE69765A-E42F-493A-A074-A0E76DEA6B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F435AA81-086E-461E-B145-11AFD3233671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F435AA81-086E-461E-B145-11AFD3233671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F435AA81-086E-461E-B145-11AFD3233671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F435AA81-086E-461E-B145-11AFD3233671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F144204-62B3-4A5F-B191-14461504B09D}
+	EndGlobalSection
+EndGlobal
